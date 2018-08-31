@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "activities.html",
+    "currentPage": "index.html",
     "name": "TSD Team-Building & Well-Being",
     "theme": {
       "name": "mobirise3",
@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -62,10 +62,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -113,7 +113,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -134,8 +134,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         },
         {
           "_name": "header1",
@@ -220,6 +220,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -231,7 +234,7 @@
             "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "4",
-            "bgColor": "#f28281"
+            "bgColor": "#b8312f"
           },
           "title": "It's as simple as 1 2 3 !<br>",
           "meta": "By John Smith posted July 20, 2016"
@@ -243,7 +246,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -281,7 +284,7 @@
           },
           "title": "<br>Step 1: Identify Team Competencies",
           "text": "In a team-oriented environment, every member contributes to the oeverall success of the organisation.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">SEE COMPETENCIES HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"competencies.html\" data-toolbar=\"-mbrBtnMove\">SEE COMPETENCIES HERE</a>",
           "_tags": [
             "Theme"
           ],
@@ -333,7 +336,7 @@
           },
           "title": "<br>Step 2: Design or Select Activities",
           "text": "Choose from an exciting range of products and services...or better yet, customise your own team building and wellness package!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">SEE SAMPLE ACTIVITIES HERE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"activities.html\" data-toolbar=\"-mbrBtnMove\">SEE SAMPLE ACTIVITIES HERE</a>",
           "_tags": [
             "Theme"
           ],
@@ -385,7 +388,7 @@
           },
           "title": "<br>STEP 3: Enjoy and Flourish!",
           "text": "Reap the fruits of your labour--a bonded team is <br>a motivated team is a productive team!<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">READ OUR TESTIMONIALS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testimonials.html\" data-toolbar=\"-mbrBtnMove\">READ OUR TESTIMONIALS</a>",
           "_tags": [
             "Theme"
           ],
@@ -435,7 +438,7 @@
           },
           "title": "Why THINK. SHIFT. DESIGN. <br>for your teams?",
           "text": "<p>We are a professional consultancy focused on finding creative solutions for &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-size: 1.07rem; line-height: 1.5;\">Individuals, Organisations and Communities.&nbsp;</span></p><p><br></p><ul><li>Unique, diverse yet focused expertise crowd-sourced from individuals with wide-ranging backgrounds in different industries&nbsp;</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Nearly five years of hands-on experience in service audits for numerous international brands</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">New methods of combining data-mining, market research and social media engagement with actual customers</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">In-house training &amp; coaching by certified and experienced trainers for service improvement</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>You can count on us to conduct relevant, detailed service audits&nbsp;</b></span><b style=\"font-size: 1.07rem; line-height: 1.5;\">which provide invaluable insights that will drive growth for your business.</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TSD FOR YOU</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MEET OUR TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://www.thinkshiftdesign.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> VISIT OUR CORPORATE SITE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"about.html#extFeatures8-1j\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TSD FOR YOU</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"about.html#extFeatures9-1i\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MEET OUR TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://corporate.thinkshiftdesign.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"> VISIT OUR CORPORATE SITE</a>"
         },
         {
           "_tags": [
@@ -655,7 +658,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -676,8 +679,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         }
       ]
     },
@@ -916,10 +919,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -969,7 +972,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -990,8 +993,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
           "_anchor": "menu-r"
         },
         {
@@ -1495,12 +1498,12 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1517,7 +1520,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
           "_tags": [
             "Theme"
           ],
@@ -2341,10 +2344,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2390,12 +2393,12 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2412,7 +2415,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
           "_tags": [
             "Theme"
           ],
@@ -2494,7 +2497,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.65",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2515,8 +2518,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.thinkshiftdesign.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-6\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
           "_anchor": "menu-18"
         },
         {
