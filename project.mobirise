@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "competencies.html",
     "name": "TSD Team-Building & Well-Being",
     "theme": {
       "name": "mobirise3",
@@ -1287,7 +1287,7 @@
           },
           "title": "Team Competencies",
           "text": "Competencies clearly<b> communicate expectations</b> for performance, and translate <b>success</b> into <b>clear and observable</b> behaviours. <br>Competencies bring together<b> shared values</b> and <b>encourage teamwork </b>settings, while still allowing <b>diverse perspectives and backgrounds</b> to shine. <br><br>Scroll to learn more about some of the team competencies you can harness to build <b>powerful work teams</b>!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html#header3-w\" data-toolbar=\"-mbrBtnMove\">SOFT SKILLS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html#header3-x\" data-toolbar=\"-mbrBtnMove\">DOMAIN SKILLS</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"competencies.html#header3-w\" data-toolbar=\"-mbrBtnMove\">SOFT SKILLS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"competencies.html#header3-x\" data-toolbar=\"-mbrBtnMove\">DOMAIN SKILLS</a>",
           "_tags": [
             "Theme"
           ],
@@ -1345,7 +1345,7 @@
               "name": "talk-man",
               "family": "iconsMind",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1356,18 +1356,19 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media4": {
@@ -1377,7 +1378,7 @@
               "name": "apple",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1388,7 +1389,7 @@
               "name": "cursor-click",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1399,7 +1400,7 @@
               "name": "hot-cup",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0
             }
           },
@@ -1449,10 +1450,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1579,20 +1580,21 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "edit",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media3": {
@@ -1602,20 +1604,21 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media5": {
@@ -1625,7 +1628,7 @@
               "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -1637,7 +1640,7 @@
               "name": "like",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
