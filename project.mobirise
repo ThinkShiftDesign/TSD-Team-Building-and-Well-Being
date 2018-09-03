@@ -283,7 +283,7 @@
             }
           },
           "title": "<br>Step 1: Identify Team Competencies",
-          "text": "In an team-oriented environment, every member contributes to the overall success of the organisation.",
+          "text": "In a team-oriented environment, every member contributes to the overall success of the organisation.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"competencies.html\" data-toolbar=\"-mbrBtnMove\">SEE COMPETENCIES HERE</a>",
           "_tags": [
             "Theme"
@@ -1584,7 +1584,7 @@
           "caption2": "Harness the power of imagination or original ideas to create or invent something! Great for improving morale.",
           "title3": "Active Participation",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Become someone who, friends and collegues count on to promote and improve general well-being and team effectiveness.",
+          "caption3": "Become someone whom friends and collegues count on to promote and improve general well-being and team effectiveness.",
           "title4": "Life-Long Learning",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Develop self-motivation and voluntarily pursue knowledge for both personal and professional reasons.",
@@ -1904,14 +1904,19 @@
               "size": 250
             }
           },
-          "title": "Why Think.Shift.Design <br>for your team?",
+          "title": "Why Think.Shift.Design.&nbsp;<br>for your team?",
           "text": "<br>WE ARE HERE TO HELP TURN IDEAS INTO REALITY.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-1m"
+          "_anchor": "header2-1m",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_styles": {
@@ -2156,8 +2161,8 @@
           "caption2": "Aldrin is a serial entrepreneur with diverse interests in OD and PD, carpentry, sailing and IT. He is our go-to man for strategic plans and zany ideas that will ensure your team building event is a success.",
           "title3": "Tom Lim",
           "subtitle3": "Training Guru",
-          "caption3": "Tom brings to the table his professionalism, dedication and gungho attitude. His deep and broad training experiences and qualifications means your team's journey is guaranteed to be memorable and filled with takeaways.&nbsp;",
-          "title4": "Nicole Q",
+          "caption3": "Tom brings to the table his professionalism, dedication and gungho attitude. His deep and broad training experiences and qualifications mean your team's journey is guaranteed to be memorable and filled with takeaways.&nbsp;",
+          "title4": "Nicole Triffett",
           "subtitle4": "Can-do Wizard",
           "caption4": "Nicole loves learning, and has interests in almost every field under the sun. She brings a unique sense of humour and perspective to team building, Ask her about coding, baking or curriculum planning.&nbsp;",
           "title5": "Li Neng",
@@ -2462,7 +2467,7 @@
           "title": "We'd Love to Help!",
           "formTitle": "Contact Form",
           "formSubtitle": "Thank you for your message, our team will contact you shortly.&nbsp;",
-          "text": "If you're looking for someone to plan, manage and faciliate your next team building event, you've come to the right place!<br> <br>Choose from our current line of products and services, or speak with us to customise events and activites that prefectly suit your organisation's needs. &nbsp;",
+          "text": "If you're looking for someone to plan, manage and faciliate your next team building event, you've come to the right place!<br> <br>Choose from our current line of products and services, or speak with us to customise events and activities that perfectly suit your organisation's needs. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">GET IN TOUCH!</a>",
           "form": {
@@ -2781,7 +2786,7 @@
               {
                 "active": false,
                 "text": "<p>“Professional, well-prepared and smoothly run. Everything was to our expectations from the intial planning and discussion stage to successful execution. It was very nice seeing my colleagues co-operating to complete challenges. Also appreciate the tool kits and add-ons that your company suggested, thank you.”</p>",
-                "authorName": "Jacky Quinto",
+                "authorName": "Jacky Quin",
                 "authorBio": "HR Manager",
                 "media": {
                   "image": {
