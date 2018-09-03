@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "competencies.html",
+    "currentPage": "testimonials.html",
     "name": "TSD Team-Building & Well-Being",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 76,
     "versionPublish": "4.8.1",
     "favicon": "",
     "noImageResize": "",
@@ -53,7 +53,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -134,7 +134,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Team-Building &amp; Well-Being</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         },
         {
@@ -283,7 +283,7 @@
             }
           },
           "title": "<br>Step 1: Identify Team Competencies",
-          "text": "In a team-oriented environment, every member contributes to the oeverall success of the organisation.",
+          "text": "In an team-oriented environment, every member contributes to the overall success of the organisation.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"competencies.html\" data-toolbar=\"-mbrBtnMove\">SEE COMPETENCIES HERE</a>",
           "_tags": [
             "Theme"
@@ -296,7 +296,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": "1",
@@ -512,7 +512,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 T.S.D. Consulting LLP&nbsp;"
+          "text": "Copyright (c) 2018 T.S.D. Consulting LLP &nbsp;| &nbsp;hal@thinkshiftdesign.com |&nbsp;"
         }
       ]
     },
@@ -538,7 +538,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 T.S.D. Consulting LLP&nbsp;"
+          "text": "Copyright (c) 2018 T.S.D. Consulting LLP &nbsp;| &nbsp;hal@thinkshiftdesign.com |&nbsp;"
         },
         {
           "_tags": [
@@ -595,7 +595,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -604,10 +604,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -679,7 +679,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Team-Building &amp; Well-Being</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>"
         }
       ]
@@ -697,9 +697,9 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "showIcons": true,
+            "showIcons": false,
             "iconsColor": "#fff",
-            "showTitles": true,
+            "showTitles": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": false,
@@ -714,10 +714,10 @@
             "overlayOpacity": 0.3
           },
           "title": "Activities",
-          "text": "A non-exhaustive sampling of recommendations for your next team-building and well-being event! Whether you are looking to learn, develop, relax, work or exercise, we've got you covered.&nbsp;",
+          "text": "<br>Welcome to a non-exhaustive sampling of recommendations <br>for your next team-building and well-being event.<br><br>Whether you are looking to learn, develop, relax, work or exercise, <br>we've got you covered.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "title1": "Mode of Delivery",
-          "title2": "Type of Activity",
+          "title2": "Activity Types",
           "title3": "Theme",
           "title4": "Outcome",
           "media1": {
@@ -776,6 +776,26 @@
           "_anchor": "extHeader3-14"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Mode of Delivery",
+          "meta": "Fully Customisable to Suit your Group's Needs",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u"
+        },
+        {
           "_params": {
             "showBullets": true,
             "fullWidth": false,
@@ -792,89 +812,96 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Workshop/Seminar",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Talk/Lecture",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Large Group Facilitation",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Indoor Experiences",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-1920x1281-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Problem-Based Learning",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1271-800x530.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Experiential Learning",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Outdoor Adventures",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1342-800x559.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Small Group Project Discussions&nbsp;",
+                "active": true
               }
             ]
           },
@@ -885,6 +912,26 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-1t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Type of Activity",
+          "meta": "Mix and Match to form your Perfect Event!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v"
         },
         {
           "_name": "footer1",
@@ -900,7 +947,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 T.S.D. Consulting LLP&nbsp;",
+          "text": "Copyright (c) 2018 T.S.D. Consulting LLP &nbsp;| &nbsp;hal@thinkshiftdesign.com |&nbsp;",
           "_anchor": "footer1-q"
         },
         {
@@ -910,7 +957,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -993,7 +1040,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Team-Building &amp; Well-Being</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
           "_anchor": "menu-r"
         },
@@ -1006,9 +1053,9 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#000000",
             "showText": true,
-            "filter": true,
+            "filter": false,
             "images": [
               {
                 "tags": "Mode of Delivery",
@@ -1032,15 +1079,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "Case Studies: From Theory to Practice",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Type of Activity",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1370.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1370-800x571.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Scavenger Hunt &amp; Adventure <br>Puzzle-Solving",
@@ -1063,8 +1110,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1620x1080-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Public Speaking and <br>Effective Communication",
@@ -1075,11 +1122,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-1920x1281-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Art, Music, Dance, Culture",
+                "caption": "Art Jamming Session",
                 "active": false
               },
               {
@@ -1087,24 +1134,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281-800x534.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Indoor/Outdoor Small or Large Group<br>Event and Games Facilitation",
+                "caption": "Role-Play &amp; Dramatisation",
                 "active": false
               },
               {
-                "tags": "Outcome",
+                "tags": "Theme",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1459.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1459-800x608.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Design Thinking",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -1115,6 +1162,125 @@
           "allItem": "All",
           "_name": "gallery4",
           "_anchor": "gallery4-16"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-7-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Bake Off Team Building",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1364.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1364-800x568.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Unique Local Experiences",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1204.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1204-800x502.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Professional Development Workshop",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-8-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Board Game Afternoon / Quiz Night",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1279-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Acting/Dance Workshop",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-9-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-9-1920x1280-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Get Fit Together",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1184.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1184-800x493.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Corporate Social Responsibility/Charity/Volunteerism",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1285.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1285-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Theme-based Outing",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1y"
         },
         {
           "_params": {
@@ -1142,7 +1308,7 @@
             "iconsColor": "#333333",
             "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">TAKE THE NEXT STEP</a>"
           },
-          "title": "So many possibilities, so little time... Let us know what gets your attention!",
+          "title": "Let us know what caught your attention!",
           "title1": "For your contacts",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers &amp; cooperation",
@@ -1186,7 +1352,7 @@
             }
           },
           "form": {
-            "action": "aldrintee@gmail.com",
+            "action": "hal+team-building@thinkshiftdesign.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1202,7 +1368,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone*"
               },
@@ -1243,7 +1409,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 T.S.D. Consulting LLP&nbsp;",
+          "text": "Copyright (c) 2018 T.S.D. Consulting LLP &nbsp;| &nbsp;hal@thinkshiftdesign.com |&nbsp;",
           "_anchor": "footer1-o"
         },
         {
@@ -1255,7 +1421,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x830.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1265,13 +1431,16 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x915.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1441,7 +1610,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1521,7 +1690,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Team-Building &amp; Well-Being</a>",
           "_tags": [
             "Theme"
           ],
@@ -1702,7 +1871,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1886,7 +2055,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 T.S.D. Consulting LLP&nbsp;",
+          "text": "Copyright (c) 2018 T.S.D. Consulting LLP &nbsp;| &nbsp;hal@thinkshiftdesign.com |&nbsp;",
           "_anchor": "footer1-1f"
         },
         {
@@ -2338,7 +2507,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2418,7 +2587,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Team-Building &amp; Well-Being</a>",
           "_tags": [
             "Theme"
           ],
@@ -2441,7 +2610,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "15px"
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2450,10 +2619,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.704rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2521,7 +2690,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Team-Building &amp; Well-Being</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Team-Building &amp; Well-Being</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"competencies.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-one mbr-iconfont mbr-iconfont-btn\"></span>COMPETENCIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"activities.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-two mbr-iconfont mbr-iconfont-btn\"></span>ACTIVITIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\"><span class=\"mdi-image-looks-3 mbr-iconfont mbr-iconfont-btn\"></span>TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-7\">TAKE THE NEXT STEP</a></li>",
           "_anchor": "menu-18"
         },
@@ -2539,7 +2708,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 T.S.D. Consulting LLP&nbsp;",
+          "text": "Copyright (c) 2018 T.S.D. Consulting LLP &nbsp;| &nbsp;hal@thinkshiftdesign.com |&nbsp;",
           "_anchor": "footer1-19"
         },
         {
@@ -2564,7 +2733,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayOpacity": "0.3"
           },
           "title": "<br>Our Clients say...&nbsp;",
           "text": "<br>The best reward is a job well done. At Think.Shift.Design., <br>hearing success stories from satisfied clients is what keeps us going.&nbsp;",
